@@ -1,0 +1,7 @@
+#quiz, #end {
+    display: none;
+};
+
+#body {
+    background-image: url("../images/background.jpg");
+}
